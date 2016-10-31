@@ -3,8 +3,8 @@ a:link {
 }
 
 header {
-  background-color: black;
   padding: 0.5rem;
+  background-color: black;
 }
 
 h1 {
@@ -16,18 +16,53 @@ h3 {
 }
 
 nav {
- 
+  background-color: darkgray;
+}
+
+.book-now {
+  color: red;
+  float:right;
+}
+
+.about {
+  color: purple;
+}
+
+.rates {
+  color: purple;
+}
+
+.liability {
+  color: purple;
+}
+
+.kittyprofiles {
+  color: purple;
+}
+
+.book {
+  color: purple;
 }
 
 h2{
   color: black;
 }
 
+p {
+  color: black;
+}
+
+article {
+  float: left;
+}
+
 figure {
+  float:right;
   border: solid;
   border-color: black;
   border-width: thin;
   padding: 0.5rem;
+  margin-right: 30rem;
 }
 
 figure img {
