@@ -2,6 +2,10 @@ a:link {
   color: red;
 }
 
+a:visited {
+  color: red;
+}
+
 header {
   padding: 0.5rem;
   background-color: black;
@@ -55,6 +59,11 @@ p {
 
 article {
   float: left;
+  border: solid;
+  border-color: black;
+  border-width: thin;
+  padding: 0.5rem;
+  margin-right: 30rem;
 }
 
 figure {
