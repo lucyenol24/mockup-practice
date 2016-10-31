@@ -1,0 +1,47 @@
+a:link {
+  color: red;
+}
+
+header {
+  background-color: black;
+  padding: 0.5rem;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: darkgray;
+}
+
+nav {
+ 
+}
+
+h2{
+  color: black;
+}
+
+figure {
+  border: solid;
+  border-color: black;
+  border-width: thin;
+  padding: 0.5rem;
+}
+
+figure img {
+  width: 10em;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+article {
+  color: white;
+}
+
+
+footer {
+  background-color: black;
+  clear: both;
+}
