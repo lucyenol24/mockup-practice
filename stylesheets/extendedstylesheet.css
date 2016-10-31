@@ -1,0 +1,14 @@
+a:link {
+  color: red;
+}
+
+body {
+  background-color: darkgray;
+}
+
+footer {
+  background-color: black;
+  padding: 0.5rem;
+  clear: both;
+  color: white; 
+}
