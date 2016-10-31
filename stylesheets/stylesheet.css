@@ -1,8 +1,4 @@
-a:link {
-  color: red;
-}
-
-a:visited {
+a:link, a:visited {
   color: red;
 }
 
@@ -24,55 +20,37 @@ nav {
   background-color: darkgray;
 }
 
+nav a {
+  padding: 15px;
+}
+
 .book-now {
   color: red;
   float:right;
 }
 
-.about {
+.about, .rates, .liability, .kittyprofiles, .book {
   color: purple;
 }
 
-.rates {
-  color: purple;
-}
-
-.liability {
-  color: purple;
-}
-
-.kittyprofiles {
-  color: purple;
-}
-
-.book {
-  color: purple;
-}
-
-h2{
+h2, p {
   color: black;
 }
 
-p {
-  color: black;
+aside {
+  float: right;
+  border: solid;
+  border-color: black;
+  border-width: thin;
+  margin-right: 1%;
+  width: 19%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 article {
-  float: left;
-  border: solid;
-  border-color: black;
-  border-width: thin;
-  padding: 0.5rem;
-  margin-right: 30rem;
-}
-
-figure {
-  float:right;
-  border: solid;
-  border-color: black;
-  border-width: thin;
-  padding: 0.5rem;
-  margin-right: 30rem;
+  float: right;
+  width: 78%;
 }
 
 figure img {
