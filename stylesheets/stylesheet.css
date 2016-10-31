@@ -9,6 +9,7 @@ header {
 
 h1 {
   color: white;
+  padding: 0.5rem; 
 }
 
 h3 {
@@ -71,12 +72,9 @@ figure img {
   margin-bottom: 0.5rem;
 }
 
-article {
-  color: white;
-}
-
-
 footer {
   background-color: black;
+  padding: 0.5rem;
   clear: both;
+  color: white; 
 }
