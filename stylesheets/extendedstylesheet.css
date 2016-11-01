@@ -7,6 +7,10 @@ body {
   padding: 1rem;
 }
 
+.purple {
+  color: purple;
+}
+
 aside {
   float: right;
   background-color: mediumpurple;
