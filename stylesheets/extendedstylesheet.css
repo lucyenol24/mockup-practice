@@ -4,11 +4,19 @@ a:link {
 
 body {
   background-color: darkgray;
+  padding: 1rem;
+}
+
+aside {
+  float: right;
+  background-color: mediumpurple;
+  color: white;
+  padding: 1rem;
 }
 
 footer {
   background-color: black;
-  padding: 0.5rem;
+  padding: 1rem;
   clear: both;
   color: white; 
 }
