@@ -18,9 +18,13 @@ aside {
   padding: 1rem;
 }
 
+h5 {
+  text-align: center;
+}
+
 footer {
   background-color: black;
-  padding: 1rem;
+  padding: 0.5rem;
   clear: both;
   color: white; 
 }
