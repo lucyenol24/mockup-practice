@@ -59,6 +59,9 @@ figure img {
   margin-bottom: 0.5rem;
 }
 
+h5 {
+  text-align: center;
+}
 footer {
   background-color: black;
   padding: 0.5rem;
